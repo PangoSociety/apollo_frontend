@@ -1,0 +1,9 @@
+{
+  "authuser": {
+    "loginTitle": "Iniciar sesion",
+    "loginFormDescription": "Ingresa tus credenciales para acceder",
+    "loginFormEmailLabel": "Correo electronico",
+    "loginBgImageAlt": "Log in background image",
+    "failureEmailInvalid": "El correo electronico no es valido"
+  }
+}
